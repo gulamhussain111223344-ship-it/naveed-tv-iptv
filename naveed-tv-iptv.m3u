@@ -1,22 +1,27 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U
 
-#EXTINF:-1 group-title="Global",Global IPTV
-https://iptv-org.github.io/iptv/index.m3u
+# ---------- Pakistan ----------
 
-#EXTINF:-1 group-title="Pakistan",Pakistan Channels
-https://iptv-org.github.io/iptv/countries/pk.m3u
+#EXTINF:-1 tvg-name="Geo News" group-title="Pakistan",Geo News
+https://ythls.armelin.one/channel/UCxEhn6z1K3Qm5yF8Gq0y0nA.m3u8
 
-#EXTINF:-1 group-title="India",India Channels
-https://iptv-org.github.io/iptv/countries/in.m3u
+#EXTINF:-1 tvg-name="ARY News" group-title="Pakistan",ARY News
+https://ythls.armelin.one/channel/UC4JCksJF76g_MdzPVBJoC3Q.m3u8
 
-#EXTINF:-1 group-title="USA",USA Channels
-https://iptv-org.github.io/iptv/countries/us.m3u
+#EXTINF:-1 tvg-name="Samaa News" group-title="Pakistan",Samaa News
+https://ythls.armelin.one/channel/UCJekW1Vj5fCVEGdye_mBN6Q.m3u8
 
-#EXTINF:-1 group-title="UK",UK Channels
-https://iptv-org.github.io/iptv/countries/uk.m3u
 
-#EXTINF:-1 group-title="Sports",Sports Channels
-https://iptv-org.github.io/iptv/categories/sports.m3u
+# ---------- India ----------
 
-#EXTINF:-1 group-title="Movies",Movie Channels
-https://iptv-org.github.io/iptv/categories/movies.m3u
+#EXTINF:-1 tvg-name="Aaj Tak" group-title="India",Aaj Tak
+https://ythls.armelin.one/channel/UCt4t-jeY85JegMlZ-E5UWtA.m3u8
+
+#EXTINF:-1 tvg-name="India Today" group-title="India",India Today
+https://ythls.armelin.one/channel/UCYPvAwZP8pZhSMW8qs7cVCw.m3u8
+
+
+# ---------- Sports ----------
+
+#EXTINF:-1 tvg-name="Sky Sports News" group-title="Sports",Sky Sports News
+https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
